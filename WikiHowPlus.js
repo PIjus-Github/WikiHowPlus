@@ -9,3 +9,5 @@
 // ==/UserScript==
 var elem = document.getElementById("article_courses_banner");
   elem.parentNode.removeChild(elem);
+var elem = document.getElementById("gdpr");
+  elem.parentNode.removeChild(elem);
