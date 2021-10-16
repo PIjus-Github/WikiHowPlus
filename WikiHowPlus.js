@@ -9,5 +9,11 @@
 // ==/UserScript==
 var elem = document.getElementById("article_courses_banner");
   elem.parentNode.removeChild(elem);
-var elem = document.getElementById("gdpr");
+elem = document.getElementById("gdpr");
+  elem.parentNode.removeChild(elem);
+elem = document.getElementById("gdpr_text");
+  elem.parentNode.removeChild(elem);
+elem = document.getElementById("gdpr_accept_wrap");
+  elem.parentNode.removeChild(elem);
+elem = document.getElementById("gdpr_close");
   elem.parentNode.removeChild(elem);
