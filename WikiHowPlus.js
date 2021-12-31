@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         WikiHowPlus
-// @namespace    https://github.com/Peeeaaayus
+// @namespace    https://github.com/Peeyos1
 // @version      1.0
 // @description  Enchances your Wikihow experience.
 // @author       PIjus
